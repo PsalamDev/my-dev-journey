@@ -1,0 +1,36 @@
+  Generate a full-stack Hospital  Management System Portal using:
+
+Frontend:
+-Angular
+
+Backend:
+-C# .Net
+
+Database:
+- sql Server
+
+Features:
+- Admin Login
+- Patient Login
+- Dashboard
+- Health Management
+- Appointment Bookings 
+- Search & Filter
+- Role-Based Access Control
+- Responsive UI
+
+Generate:
+- System Architecture
+- Database Schema
+- API Endpoints
+_ Entity/Models
+- Migrations
+- Controllers
+- Middleware
+- Repository
+- Services
+- Form Validation
+- Unit Tests
+- Deployment Guide
+
+Follow Clean Architecture and SOLID principles.
